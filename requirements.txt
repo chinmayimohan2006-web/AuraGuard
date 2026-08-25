@@ -1,0 +1,14 @@
+torch
+torchvision
+streamlit
+scikit-image
+opencv-python-headless
+Pillow
+imagehash
+tqdm
+matplotlib
+transformers
+timm
+# Note: On Python 3.13, facenet-pytorch must be installed with --no-deps to avoid NumPy compile errors:
+# pip install --no-deps facenet-pytorch
+facenet-pytorch

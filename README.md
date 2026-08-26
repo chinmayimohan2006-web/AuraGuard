@@ -40,9 +40,4 @@ To confirm that defensive perturbations do not degrade visual aesthetics, AuraGu
 ▼                                ▼                                ▼
 [ Inoculated Image ]           [ IQA Verification ]          [ Scraper Vulnerability Test ]
 (Human Imperceptible)         (PSNR, SSIM, LPIPS)              (Latent Cosine < 0.20)
-
-
-
----
-
 ## 🏗️ Technical Architecture
